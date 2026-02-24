@@ -1,46 +1,21 @@
-# Terms of Service & Privacy Policy for 宵崎奏
-
-## Terms of Service
-
-**Last Updated: [2025-03-28]**
-
-By using 宵崎奏 ("the Bot"), you agree to the following terms:
-
-### 1. Use of the Bot
-- The Bot is provided "as is" without warranties of any kind.
-- You must comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-- Abuse, exploitation, or misuse of the Bot may result in a ban from its services.
-
-### 2. User Responsibilities
-- You must not use the Bot for illegal or harmful activities.
-- You are responsible for ensuring that the Bot's commands and features comply with your server's rules.
-
-### 3. Modifications & Termination
-- We reserve the right to modify or discontinue the Bot's services at any time.
-- We may update these Terms, and continued use of the Bot after changes means you accept them.
-
----
-
 ## Privacy Policy
 
-**Last Updated: [2025-03-28]**
+**Last Updated: [2026-02-24]**
 
 ### 1. Information We Collect
-宵崎奏 may collect and store the following data:
-- **User IDs, Server IDs, and Message Data** (only when necessary for bot functionality).
-- **Command Usage Data** to improve performance and reliability.
-- **Error Logs** for debugging purposes.
+宵崎奏 may collect and store the following data only to the extent necessary for its operations:
+- **User IDs & Server IDs:** To identify server configurations and user settings.
+- **Message Content:** Accessed temporarily for specific administrative features such as channel archival (`/record`) and moderation logging. 
+- **Command Usage & Error Logs:** To monitor bot performance and fix technical issues.
 
 ### 2. How We Use Your Data
-- Data is used strictly for bot operation and improving user experience.
-- No personal data is shared with third parties.
-- Data is stored securely and removed upon request.
+- **Service Fulfillment:** Message content is processed in real-time to generate HTML transcripts for backups or to log deleted/edited messages in admin-designated channels.
+- **No Long-term Storage:** We do not store your message content on our private databases. Once a backup file is generated or a log is sent, the bot does not retain the message payload.
+- **No Third-Party Sharing:** Your data is never sold, shared, or distributed to any third parties.
 
-### 3. Your Rights
-- You may request data removal by contacting the bot owner.
-- The bot does not collect or store sensitive personal information.
+### 3. Data Retention & Your Rights
+- **Data Deletion:** You have the right to request the deletion of any stored configuration data. 
+- **Opt-out:** To stop data collection, you may remove the Bot from your server, which will cease all message monitoring and data processing.
+- **Contact:** For any data-related inquiries, please contact the developer: zaber@zaber.online.
 
-For questions or concerns, please contact the bot owner or support team.
-
-**By using , you agree to these terms.**
-
+**By using 宵崎奏, you agree to these terms.**
